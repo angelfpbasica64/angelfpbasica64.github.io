@@ -1,0 +1,65 @@
+body {
+	font-family: "Times New Roman", serif;
+	background-color: #494F4E; 
+}
+
+
+h1 {
+	text-align: center;
+	font-family: sans-serif; 
+	color:#f660ab
+}
+
+
+h2{
+	text-align: left;
+	color: #f660ab;}
+
+
+ul{
+	text-align: center;}
+
+
+
+p{
+	text-align: center;
+	margin-left: 80px;
+	font-size: 14pt;
+	color: #f660ab;}
+
+
+
+a:link{
+	color: #f660ab; }
+
+
+
+a:visited{
+	color:  #FF86CF; }
+
+
+
+
+hr{
+	color: #f660ab;}
+
+li{
+	font-size: 20pt;}
+
+img{
+
+	width:250px;
+	height:250px;}
+
+table{
+	margin: 0 auto;}
+
+td{
+	font-size: 20pt}
+
+
+h3{
+	text-align: center;
+	font-size: 14pt;
+	color: #f660ab;
+}
